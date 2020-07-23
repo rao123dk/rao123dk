@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**rao123dk/rao123dk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Dheeraj Kumar Rao](https://pbs.twimg.com/profile_images/1221632555113316353/GEoxlVz4_400x400.jpg)](https://rao123dk.github.io/)
 
-Here are some ideas to get you started:
+ 👋  I’m Dheeraj Kumar Rao. I am Software Engineer. I am from India currently living in New Delhi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Founder of [JavaScript kingdom] (https://javascriptkingdom.github.io) that aims to deliver awesome content and tips and tips realted to JavaScript tech stack. I have been obsessed with coding ever since I graduated out of college. I learnt C++ myself. 
+
+I love contributing to open source in my free time. I love Coding, Javascript, Nodejs, React & my family ❤️ In coming years I see my self teaching people to code.
+
+I cook the food and cook the code. 
+
+- 🔭 I’m currently working at @exzeo
+- 🌱 I’m currently learning web security
+- 💬 Ask me about JavaScript, React, Nodejs
+- 📫 How to reach me: [@Dheeraj Kuamr Rao](https://twitter.com/rao123dk)
+- ⚡ Fun fact: ....
