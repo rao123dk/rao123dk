@@ -4,7 +4,7 @@
 
  👋  I’m Dheeraj Kumar Rao. I am Software Engineer. I am from India currently living in New Delhi.
 
-I am founder of [JavaScript kingdom](https://javascriptkingdom.github.io) that aims to deliver awesome content and tips and tips realted to JavaScript tech stack. I have been obsessed with coding ever since I graduated out of college. I learned C++/Nodejs/Reactjs/Python myself. 
+I am founder of [JavaScript kingdom](https://javascriptkingdom.github.io) that aims to deliver awesome content and tips and tricks realted to JavaScript tech stack. I have been obsessed with coding ever since I graduated out of college. I learned C++/Nodejs/Reactjs/Python myself. 
 
 I love contributing to open source in my free time. I love Coding, Javascript, Nodejs, React & my family ❤️ In coming years I see my self teaching people to code.
 
