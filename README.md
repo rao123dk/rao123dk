@@ -49,3 +49,10 @@ I cook the food and cook the code.
  <img alt="jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
   
 </p>
+
+<h2>Latest Tweets</h2>
+<p>
+ <a href="https://twitter.com/rao123dk"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=rao123dk&amp;layout=wide" alt="github-readme-twitter"></a></p>
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=rao123dk&amp;show_icons=true" alt="GitHub Stats"></p>
+
