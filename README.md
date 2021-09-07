@@ -2,7 +2,7 @@
 
 [![Dheeraj Kumar Rao](https://pbs.twimg.com/profile_images/1221632555113316353/GEoxlVz4_400x400.jpg)](https://rao123dk.github.io/)
 
- 👋  I’m Dheeraj Kumar Rao. I am Software Engineer. I am from India and currently living in New Delhi.
+ 👋  I’m Dheeraj Kumar Rao. I am Software Engineer. I am from India <img src="assets/india.png" width = "15px">, currently living in Noida.
 
 I am founder of [JavaScript kingdom](https://javascriptkingdom.github.io) that aims to deliver awesome content and tips and tricks realted to JavaScript tech stack. I have been obsessed with coding ever since I graduated out of college. I learned C++/Nodejs/Reactjs/Python myself. 
 
