@@ -4,14 +4,14 @@
 
  👋  I’m Dheeraj Kumar Rao. I am Software Engineer. I am from India <img src="assets/india.png" width = "15px">, currently living in Noida.
 
-I am founder of [JavaScript kingdom](https://javascriptkingdom.github.io) that aims to deliver awesome content and tips and tricks realted to JavaScript tech stack. I have been obsessed with coding ever since I graduated out of college. I learned C++/Nodejs/Reactjs/Python myself. 
+I am a maintainer of [JavaScript kingdom](https://javascriptkingdom.github.io) that aims to deliver awesome content and tips and tricks realted to JavaScript tech stack. I have been obsessed with coding ever since I graduated out of college. I learned C++/Nodejs/Reactjs/Python myself. 
 
 I love contributing to open source in my free time. I love Coding, Javascript, Nodejs, React & my family ❤️ In coming years I see my self teaching people to code.
 
 I cook the food and cook the code. 
 
 - 🔭 I’m currently working at [@exzeo](https://exzeo.com/)
-- 🌱 I’m currently learning web security
+- 🌱 I’m currently learning web security and web performance
 - 💬 Ask me about JavaScript, React, Nodejs
 - 📫 How to reach me: [@Dheeraj Kuamr Rao](https://twitter.com/rao123dk)
 - ⚡ Fun fact: ....
@@ -27,7 +27,6 @@ I cook the food and cook the code.
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rao123dk)
 
 # <img src="assets/Rocket.gif" width="30px">&nbsp;Skills  
-<h3>Things I code with</h3>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="Nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -50,9 +49,14 @@ I cook the food and cook the code.
   
 </p>
 
-<h2>Latest Tweets</h2>
-<p>
- <a href="https://twitter.com/rao123dk"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=rao123dk&amp;layout=wide" alt="github-readme-twitter"></a></p>
-<h2>GitHub Stats</h2>
+
+# &nbsp; GitHub Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=rao123dk&amp;show_icons=true" alt="GitHub Stats"></p>
 
+# 📖&nbsp;Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rao123dk&layout=compact" width="40%">
+
+# &nbsp; Latest Tweets
+<p>
+ <a href="https://twitter.com/rao123dk"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=rao123dk&amp;layout=wide" alt="github-readme-twitter"></a></p>
