@@ -59,4 +59,6 @@ I cook the food and cook the code.
 
 # &nbsp; Latest Tweets
 <p>
- <a href="https://twitter.com/rao123dk"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=rao123dk&amp;layout=wide" alt="github-readme-twitter"></a></p>
+ <a href="https://twitter.com/rao123dk"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=rao123dk&amp;layout=wide" alt="github-readme-twitter"></a>
+ <a href="https://twitter.com/javascriptking"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=javascriptking&amp;layout=wide" alt="github-readme-twitter"></a>
+</p>
