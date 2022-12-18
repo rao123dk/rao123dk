@@ -10,9 +10,9 @@ I love contributing to open source in my free time. I love Coding, Javascript, N
 
 I cook the food and cook the code. 
 
-- 🔭 I’m currently working at [@Ameriprise](https://www.https://www.ameriprise.com/.com/)
-- 🌱 I’m currently learning web security and web performance
-- 💬 Ask me about JavaScript, React, Nodejs
+- 🔭 I’m currently working at [@Ameriprise]([https://www.https://www.ameriprise.com/.com/](https://www.ameriprise.com))
+- 🌱 I’m currently learning web security, AWS, and web performance
+- 💬 Ask me about JavaScript, React, Nodejs, AWS
 - 📫 How to reach me: [@Dheeraj Kuamr Rao](https://twitter.com/rao123dk)
 - ⚡ Fun fact: ....
 
