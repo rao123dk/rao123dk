@@ -2,15 +2,15 @@
 
 [![Dheeraj Kumar Rao](https://pbs.twimg.com/profile_images/1221632555113316353/GEoxlVz4_400x400.jpg)](https://rao123dk.github.io/)
 
- 👋  I’m Dheeraj Kumar Rao. I am Software Engineer. I am from India <img src="assets/india.png" width = "15px">, currently living in Noida.
+ 👋  I’m Dheeraj Kumar Rao. I am Software Engineer. I am from India <img src="assets/india.png" width = "15px">, currently living in Gurugram.
 
-I am a maintainer of [JavaScript kingdom](https://javascriptkingdom.github.io) that aims to deliver awesome content and tips and tricks realted to JavaScript tech stack. I have been obsessed with coding ever since I graduated out of college. I learned C++/Nodejs/Reactjs/Python myself. 
+I am a maintainer of [JavaScript kingdom](https://javascriptkingdom.github.io) that aims to deliver awesome content and tips and tricks realted to JavaScript tech stack. I have been obsessed with coding ever since I graduated out of college. I learned JavaScript/Nodejs/Reactjs/Python myself. 
 
 I love contributing to open source in my free time. I love Coding, Javascript, Nodejs, React & my family ❤️ In coming years I see my self teaching people to code.
 
 I cook the food and cook the code. 
 
-- 🔭 I’m currently working at [@Ameriprise]([https://www.https://www.ameriprise.com/.com/](https://www.ameriprise.com))
+- 🔭 I’m currently working at [@Ameriprise]([https://www.https://www.ameriprise.com/](https://www.ameriprise.com))
 - 🌱 I’m currently learning web security, AWS, and web performance
 - 💬 Ask me about JavaScript, React, Nodejs, AWS
 - 📫 How to reach me: [@Dheeraj Kuamr Rao](https://twitter.com/rao123dk)
